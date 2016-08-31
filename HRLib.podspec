@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   s.requires_arc = true
 
   s.source_files = 'HRLib.framework/**/*.{h}'
-  s.vendored_frameworks = 'HRLib.framework'
+  s.vendored_frameworks = 'HRLib/HRLib.framework'
 
   s.frameworks = 'UIKit'
   #s.dependency 'AFNetworking', '~>3.1.0'
